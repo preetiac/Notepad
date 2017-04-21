@@ -1,17 +1,15 @@
 ---
 layout: post
 published: true
-mathjax: false
-featured: true
-comments: false
+mathjax: true
+featured: false
+comments: true
 title: prose.io on labs ampush
-description: Test by Max
+description: Test with Jered
 modified: '2017-04-21'
+headline: 'Test by Max with Jered '
 categories:
-  - personal
-  - psychology
-  - webdevelopment
-headline: Test by Max
+  - interesting
 ---
 ## A New Post
 
