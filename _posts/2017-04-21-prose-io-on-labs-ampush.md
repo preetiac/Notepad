@@ -2,13 +2,16 @@
 layout: post
 published: true
 mathjax: false
-featured: false
+featured: true
 comments: false
 title: prose.io on labs ampush
-description: 'new page '
+description: Test by Max
 modified: '2017-04-21'
 categories:
   - personal
+  - psychology
+  - webdevelopment
+headline: Test by Max
 ---
 ## A New Post
 
